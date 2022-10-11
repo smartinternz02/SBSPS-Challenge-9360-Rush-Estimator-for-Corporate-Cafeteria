@@ -10,3 +10,16 @@ then we have created function for collecting data from the images such as object
 drawing boxes around the target.
 
 then we will analyse the data and plot a graph for mean value from our dataset.
+And start detecting object in images and tuning the detection to detect humans only.
+after that plot a graph to determine the absolute errors.
+
+Now we will predict and compare our test data.
+and save it.
+
+
+
+BY SYSTEM SQUAD
+Team Leader: Taradepan R
+Team Members: S.Shakthi priyan
+              P.R.Sanjaiy
+              Supreet raju R.U
